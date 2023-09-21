@@ -54,7 +54,8 @@ $ git reset <filename>	//commit之前将绿色的文件重新变成红色的
 
 打开git安装目录C:\Program Files\Git\etc 找到gitconfig文件，编辑即可
 
-![image-20230920113249883](C:\Users\xqchai\AppData\Roaming\Typora\typora-user-images\image-20230920113249883.png)
+![image-20230920113249883](https://github.com/xqchai/Tools/blob/main/Git/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-09-20%20113243.png?raw=true)
+
 
 设置自己喜欢的别名来代替原生命令，比较好记
 
